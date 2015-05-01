@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OverFlow Menu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="red_menu_text">Red</string>
+    <string name="green_menu_text">Green</string>
+    <string name="blue_menu_text">Blue</string>
+</resources>

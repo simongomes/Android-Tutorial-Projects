@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Action Bar Example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>
